@@ -1,0 +1,4 @@
+appname: test
+
+database:
+  uri: mongodb://localhost:27017
